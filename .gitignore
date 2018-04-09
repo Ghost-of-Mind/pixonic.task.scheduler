@@ -1,0 +1,18 @@
+# https://git-scm.com/docs/gitignore
+
+# ========== PROJECT ==========
+# Gradle
+.gradle/
+build/
+
+
+# ========== DEVELOPMENT ENVIRONMENT ==========
+# Please add here only commonly-used patterns, for personal patters you can use:
+#     - "core.excludesFile" git config parameter;
+#     - ".git/info/exclude" file.
+
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
